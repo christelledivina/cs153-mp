@@ -1,0 +1,3 @@
+This code is in Python 2.7.x.
+If the code is run in Python 3.x, some functionalities may not work.
+No new libraries are to be installed, just run "python cs153mp.py" on the Terminal.
